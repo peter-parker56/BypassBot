@@ -16,6 +16,7 @@ pyrogram
 python-dotenv
 python-telegram-bot
 requests
+requests_toolbelt
 sapling-py
 selenium
 speedtest-cli
